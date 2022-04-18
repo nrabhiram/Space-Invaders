@@ -4,6 +4,8 @@
 
 **YouTube Demo**: https://youtu.be/rigbhkFNx20
 
+**Getting Started**: To get started with the project, you need to have a version Unreal Engine installed that is greater than or equal to 4.27.
+
 ## Navigation
 
 Here's a brief summary of how the content folders are structured within the project.
